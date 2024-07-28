@@ -429,7 +429,7 @@ main .big_content{
 }
 
 .big_content .big {
-    background-image: url(/big_content/img_1.jpeg);
+    background-image: url(./big_content/img_1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 939.400px;
