@@ -493,7 +493,7 @@ main .big_content{
 
 }
 .big_content .big .title .img{
-    background-image: url(/logo_big_content/img_1.png);
+    background-image: url(./logo_big_content/img_1.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: left bottom;
